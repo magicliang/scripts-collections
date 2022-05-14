@@ -2,7 +2,6 @@
 
 # 脚本后面 要加空格 pid 的，只适合 java 进程
 
-
 ts=$(date +"%s")
 jvmPid=$1
 defaultLines=100
